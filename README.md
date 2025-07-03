@@ -66,4 +66,14 @@ This project helped me:
 - Improve storytelling using **data visualization**
 
 ---
+## 📸 Files & Preview
+
+### 📊 Gross Profit Dashboard
+![Gross Profit Report]([images/gross_profit_dashboard.png](https://github.com/AasinTheAnalyst/PowerBI_GrossProfit_Analysis/blob/main/Report_Image.png))
+
+### 🌍 Gross Profit % by Country
+![Map View]([images/gp_map.png](https://github.com/AasinTheAnalyst/PowerBI_GrossProfit_Analysis/blob/main/Map_Image.png))
+
+### 🧩 Data Model (Power BI)
+![Data Model]([images/data_model.png](https://github.com/AasinTheAnalyst/PowerBI_GrossProfit_Analysis/blob/main/dataModel_Image.png))
 
